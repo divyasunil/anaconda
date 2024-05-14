@@ -1,0 +1,51 @@
+﻿Row ID,Invoice ID,Order Date,Gender,Customer Name,Segment,City,State,Member,Region,Category,Sub-Category,Price,Quantity,Total,Rating,Payment
+1,CA-2016-152156,08-Nov,M,Claire Gute,Consumer,Henderson,Kentucky,Yes,South,Furniture,Bookcases,261.96,2,30,5,Cash
+2,CA-2016-152156,08-Nov,M,Claire Gute,Consumer,Henderson,Kentucky,Yes,South,Furniture,Chairs,731.94,3,45,4,Cash
+3,CA-2016-138688,12-Jun,M,Darrin Van Huff,Corporate,Los Angeles,California,Yes,West,Office Supplies,Labels,14.62,2,55,5,Gpay
+4,US-2015-108966,11-Oct,M,Sean O'Donnell,Consumer,Fort Lauderdale,Florida,Yes,South,Furniture,Tables,957.5775,5,84,2,Cash
+5,US-2015-108966,11-Oct,F,Sean O'Donnell,Consumer,Fort Lauderdale,Florida,Yes,South,Office Supplies,Storage,22.368,2,400,1,Cash
+6,CA-2014-115812,09-Jun,M,Brosina Hoffman,Consumer,Los Angeles,California,Yes,West,Furniture,Furnishings,48.86,7,12,3,Cash
+7,CA-2014-115812,09-Jun,F,Brosina Hoffman,Consumer,Los Angeles,California,Yes,West,Office Supplies,Art,7.28,4,555,4,Cash
+8,CA-2014-115812,09-Jun,M,Brosina Hoffman,Consumer,Los Angeles,California,No,West,Technology,Phones,907.152,6,255,5,PhonePay
+9,CA-2014-115812,09-Jun,F,Brosina Hoffman,Consumer,Los Angeles,California,Yes,West,Office Supplies,Binders,18.504,3,100,1,Cash
+10,CA-2014-115812,09-Jun,F,Brosina Hoffman,Consumer,Los Angeles,California,Yes,West,Office Supplies,Appliances,114.9,5,80,2,Cash
+11,CA-2014-115812,09-Jun,F,Brosina Hoffman,Consumer,Los Angeles,California,Yes,West,Furniture,Tables,1706.184,9,60,5,Cash
+12,CA-2014-115812,09-Jun,M,Brosina Hoffman,Consumer,Los Angeles,California,Yes,West,Technology,Phones,911.424,4,50,5,Card
+13,CA-2017-114412,15-Apr,F,Andrew Allen,Consumer,Concord,North Carolina,No,South,Office Supplies,Paper,15.552,3,44,1,Card
+14,CA-2016-161389,05-Dec,M,Irene Maddox,Consumer,Seattle,Washington,No,West,Office Supplies,Binders,407.976,3,77,2,Cash
+15,US-2015-118983,22-Nov,M,Harold Pawlan,Home Office,Fort Worth,Texas,Yes,Central,Office Supplies,Appliances,68.81,5,48,3,Cash
+16,US-2015-118983,22-Nov,M,Harold Pawlan,Home Office,Fort Worth,Texas,Yes,Central,Office Supplies,Binders,2.544,3,94,3,Cash
+17,CA-2014-105893,11-Nov,F,Pete Kriz,Consumer,Madison,Wisconsin,Yes,Central,Office Supplies,Storage,665.88,6,600,5,Card
+18,CA-2014-167164,13-May,M,Alejandro Grove,Consumer,West Jordan,Utah,Yes,West,Office Supplies,Storage,55.5,2,54,4,Cash
+19,CA-2014-143336,27-Aug,F,Zuschuss Donatelli,Consumer,San Francisco,California,No,West,Office Supplies,Art,8.56,2,244,5,Cash
+20,CA-2014-143336,27-Aug,F,Zuschuss Donatelli,Consumer,San Francisco,California,Yes,West,Technology,Phones,213.48,3,544,3,Cash
+21,CA-2014-143336,27-Aug,F,Zuschuss Donatelli,Consumer,San Francisco,California,Yes,West,Office Supplies,Binders,22.72,4,100,3,Gpay
+22,CA-2016-137330,09-Dec,F,Ken Black,Corporate,Fremont,Nebraska,Yes,Central,Office Supplies,Art,19.46,7,10,2,Cash
+23,CA-2016-137330,09-Dec,F,Ken Black,Corporate,Fremont,Nebraska,No,Central,Office Supplies,Appliances,60.34,7,211,4,Cash
+24,US-2017-156909,16-Jul,M,Sandra Flanagan,Consumer,Philadelphia,Pennsylvania,Yes,East,Furniture,Chairs,71.372,2,355,5,Cash
+25,CA-2015-106320,25-Sep,F,Emily Burns,Consumer,Orem,Utah,Yes,West,Furniture,Tables,1044.63,3,346,3,Gpay
+26,CA-2016-121755,16-Jan,M,Eric Hoffmann,Consumer,Los Angeles,California,No,West,Office Supplies,Binders,11.648,2,874,2,Cash
+27,CA-2016-121755,16-Jan,F,Eric Hoffmann,Consumer,Los Angeles,California,Yes,West,Technology,Accessories,90.57,3,51,5,Card
+28,US-2015-150630,17-Sep,F,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,Yes,East,Furniture,Bookcases,3083.43,7,255,2,Card
+29,US-2015-150630,17-Sep,F,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,Yes,East,Office Supplies,Binders,9.618,2,289,3,Card
+30,US-2015-150630,17-Sep,M,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,No,East,Furniture,Furnishings,124.2,3,485,3,Card
+31,US-2015-150630,17-Sep,F,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,Yes,East,Office Supplies,Envelopes,3.264,2,657,3,Cash
+32,US-2015-150630,17-Sep,M,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,Yes,East,Office Supplies,Art,86.304,6,458,4,Cash
+33,US-2015-150630,17-Sep,M,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,No,East,Office Supplies,Binders,6.858,6,45,5,Gpay
+34,US-2015-150630,17-Sep,M,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,No,East,Office Supplies,Art,15.76,2,48,5,Cash
+35,CA-2017-107727,19-Oct,F,Matt Abelman,Home Office,Houston,Texas,Yes,Central,Office Supplies,Paper,29.472,3,78,5,Cash
+36,CA-2016-117590,08-Dec,M,Gene Hale,Corporate,Richardson,Texas,No,Central,Technology,Phones,1097.544,7,88,5,Gpay
+37,CA-2016-117590,08-Dec,M,Gene Hale,Corporate,Richardson,Texas,Yes,Central,Furniture,Furnishings,190.92,5,955,5,Cash
+38,CA-2015-117415,27-Dec,M,Steve Nguyen,Home Office,Houston,Texas,No,Central,Office Supplies,Envelopes,113.328,9,457,5,Cash
+39,CA-2015-117415,27-Dec,F,Steve Nguyen,Home Office,Houston,Texas,No,Central,Furniture,Bookcases,532.3992,3,658,2,Cash
+40,CA-2015-117415,27-Dec,M,Steve Nguyen,Home Office,Houston,Texas,Yes,Central,Furniture,Chairs,212.058,3,546,4,PhonePay
+41,CA-2015-117415,27-Dec,M,Steve Nguyen,Home Office,Houston,Texas,Yes,Central,Technology,Phones,371.168,4,458,5,Cash
+42,CA-2017-120999,10-Sep,M,Linda Cazamias,Corporate,Naperville,Illinois,Yes,Central,Technology,Phones,147.168,4,254,3,Cash
+43,CA-2016-101343,17-Jul,F,Ruben Ausman,Corporate,Los Angeles,California,Yes,West,Office Supplies,Storage,77.88,2,223,3,Cash
+44,CA-2017-139619,19-Sep,F,Erin Smith,Corporate,Melbourne,Florida,Yes,South,Office Supplies,Storage,95.616,2,214,4,Cash
+45,CA-2016-118255,11-Mar,F,Odella Nelson,Corporate,Eagan,Minnesota,No,Central,Technology,Accessories,45.98,2,154,5,PhonePay
+46,CA-2016-118255,11-Mar,M,Odella Nelson,Corporate,Eagan,Minnesota,Yes,Central,Office Supplies,Binders,17.46,2,145,2,Cash
+47,CA-2014-146703,20-Oct,F,Patrick O'Donnell,Consumer,Westland,Michigan,Yes,Central,Office Supplies,Storage,211.96,4,164,4,Cash
+48,CA-2016-169194,20-Jun,M,Lena Hernandez,Consumer,Dover,Delaware,No,East,Technology,Accessories,45,3,150,5,Cash
+49,CA-2016-169194,20-Jun,M,Lena Hernandez,Consumer,Dover,Delaware,Yes,East,Technology,Phones,21.8,2,200,3,PhonePay
+50,CA-2015-115742,18-Apr,M,Darren Powers,Consumer,New Albany,Indiana,Yes,Central,Office Supplies,Binders,38.22,6,100,3,Card
